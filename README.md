@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **STudyNotion Project**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **exploring AI/ML**
 
 - 📫 How to reach me **45riturajprasad@gmail.com**
 
